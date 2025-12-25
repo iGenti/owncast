@@ -34,7 +34,6 @@ import { Modal } from '../Modal/Modal';
 import { DesktopContent } from './DesktopContent';
 import { MobileContent } from './MobileContent';
 import { ChatModal } from '../../modals/ChatModal/ChatModal';
-import { Footer } from '../Footer/Footer';
 
 // Lazy loaded components
 const ChatContainer = dynamic(
